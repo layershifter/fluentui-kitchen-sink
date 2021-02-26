@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@babel/runtime": "7.12.18",
-    "@fluentui/react-components": "alpha",
+    "@fluentui/react-components": "9.0.0-alpha.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-scripts": "4.0.0"
