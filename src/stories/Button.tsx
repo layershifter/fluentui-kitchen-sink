@@ -25,7 +25,7 @@ const SVGIcon = () => (
 
 export const ButtonStory = () => (
   <>
-    <h2>Primary</h2>
+    <h2>Button</h2>
 
     <div style={{ display: "flex", gap: 10, flexDirection: "column" }}>
       <div style={{ display: "flex", gap: 10 }}>
